@@ -40,6 +40,7 @@ $ sudo docker ps
 
 0.0.0.0:80 -> 80/tcp docker-wordpress-nginx
 ```
+##enjoy
 
 You can the visit the following URL in a browser on your host machine to get started:
 
