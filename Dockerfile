@@ -61,4 +61,3 @@ EXPOSE 80
 VOLUME ["/var/lib/mysql", "/usr/share/nginx/www"]
 
 CMD ["/bin/bash", "/start.sh"]
-Status API Training Shop Blog About Pricing
