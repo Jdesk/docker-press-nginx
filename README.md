@@ -8,15 +8,15 @@ The easiest way to get this docker image installed is to pull the latest version
 from the Docker registry:
 
 ```bash
-$ docker pull jbthechamp/docker-press-nginx
+$ docker pull jbthechamp/docker-wordpress-nginx
 ```
 
 If you'd like to build the image yourself then:
 
 ```bash
-$ git clone https://github.com/jdesk/docker-press-nginx
+$ git clone https://github.com/jdesk/docker-wordpress-nginx
 $ cd docker-press-nginx
-$ sudo docker build -t="jbthechamp/dockerpress" .
+$ sudo docker build -t="jbthechamp/docker-wordpress-nginx" .
 ```
 
 ## Usage
